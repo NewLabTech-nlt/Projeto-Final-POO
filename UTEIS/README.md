@@ -1,7 +1,6 @@
 **Matériais utilizados para a execução dos projetos**
 # NewLabTech
 
-Breve descrição sobre a empresa e seu propósito.
 
 ## 📹 Vídeos
 Confira alguns vídeos relacionados à nossa empresa:
