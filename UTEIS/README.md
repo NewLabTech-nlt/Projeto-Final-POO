@@ -3,7 +3,7 @@
 
 
 ## 📹 Vídeos
-Confira alguns vídeos relacionados à nossa empresa:
+Confira alguns vídeos que usamos para codificar os projetos:
 
 ### [Tela de login](https://youtu.be/P9MDh4CMLvI?si=vnKF8o6KIFbdSrwB)
 
