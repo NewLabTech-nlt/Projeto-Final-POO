@@ -2,6 +2,9 @@
 
 Este repositório é destinado ao armazenamento da apresentação oficial da **NewLabTech**.
 
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva)
+
+
 📄 **Acesse a apresentação no Canva:**  
 [🔗 NewLabTech - Apresentação Canva](https://www.canva.com/design/DAGcGBegysA/tDDAo5tCvfeS63_BPYEayg/edit?utm_content=DAGcGBegysA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
