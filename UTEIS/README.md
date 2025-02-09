@@ -1,6 +1,7 @@
 **Matériais utilizados para a execução dos projetos**
 # NewLabTech
 
+![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)  ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-purple?style=for-the-badge&logo=openai)
 
 ## 📹 Vídeos
 Confira alguns vídeos que usamos para codificar os projetos:
