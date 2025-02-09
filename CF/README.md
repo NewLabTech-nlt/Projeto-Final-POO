@@ -1,3 +1,7 @@
+Entendi agora! Você quer que todos os exemplos de código estejam dentro da caixinha de código bash. Vou reformular para colocar todo o conteúdo, incluindo as instruções, dentro das caixinhas bash.
+
+Aqui está o formato que você pediu:
+
 # 🎮 Java no CF: Aplicação de Jogo da Velha, Calculadora e IMC
 
 ![Java](https://img.shields.io/badge/Java-v11-blue?style=flat-square&logo=java)
@@ -7,7 +11,7 @@ Bem-vindo ao projeto **Java no CF**! Este é um aplicativo Java simples, mas fun
 - **Jogo da Velha** (Jogo de tabuleiro clássico)
 - **Calculadora Básica** (Operações simples: soma, subtração, multiplicação e divisão)
 - **Calculadora IMC** (Calculadora para cálculo do Índice de Massa Corporal)
-- 
+
 ## 📝 Funcionalidades
 
 ### 1. **Tela de Login**
@@ -32,7 +36,7 @@ Bem-vindo ao projeto **Java no CF**! Este é um aplicativo Java simples, mas fun
 
 - Calcula o **Índice de Massa Corporal (IMC)** com base no peso e altura fornecidos pelo usuário.
 - A classificação do IMC será exibida com base nos seguintes critérios:
-  - Abaixo do peso
+  - Magro
   - Peso normal
   - Sobrepeso
   - Obesidade
@@ -46,27 +50,30 @@ Bem-vindo ao projeto **Java no CF**! Este é um aplicativo Java simples, mas fun
 ### Passos
 
 1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/Java-no-CF.git
-
+```
+   git clone https://github.com/NewLabTech/Java-no-CF.git
+```
 2. Navegue até a pasta CF onde está o código fonte.
-
+```
+   cd Java-no-CF/CF
+```
 
 3. Compile o arquivo Login.java:
-
-```bash
-    javac Login.java
-
+```
+   javac Login.java
+```
 
 4. Execute o programa:
-
-java Login
-
+```
+   java Login
+```
 
 5. Escolha entre as opções disponíveis na tela de login.
 
 
+
+
+---
 
 🎨 Tecnologias Usadas
 
@@ -92,4 +99,3 @@ Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto,
 ---
 
 Feito com ❤️ por Júlia.
-
