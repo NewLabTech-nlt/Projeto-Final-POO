@@ -7,15 +7,7 @@ Bem-vindo ao projeto **Java no CF**! Este é um aplicativo Java simples, mas fun
 - **Jogo da Velha** (Jogo de tabuleiro clássico)
 - **Calculadora Básica** (Operações simples: soma, subtração, multiplicação e divisão)
 - **Calculadora IMC** (Calculadora para cálculo do Índice de Massa Corporal)
-
-
-
-## 📂 Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
-
-Java no CF/ │ ├── CF/                  # Código Fonte │   ├── Login.java       # Tela de Login │   ├── JogoDaVelha.java # Lógica do Jogo da Velha │   ├── Calculadora.java # Lógica da Calculadora Básica │   └── IMC.java         # Lógica da Calculadora IMC │ ├── README.md            # Este arquivo └── .gitignore           # Arquivos ignorados no Git
-
+- 
 ## 📝 Funcionalidades
 
 ### 1. **Tela de Login**
