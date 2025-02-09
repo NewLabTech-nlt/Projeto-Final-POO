@@ -7,6 +7,8 @@ Bem-vindo ao projeto **Java no CF**! Este é um aplicativo Java simples, mas fun
 - **Jogo da Velha** (Jogo de tabuleiro clássico)
 - **Calculadora Básica** (Operações simples: soma, subtração, multiplicação e divisão)
 - **Calculadora IMC** (Calculadora para cálculo do Índice de Massa Corporal)
+
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NewLabTech&layout=compact&theme=dark&border_radius=10)
 
 
