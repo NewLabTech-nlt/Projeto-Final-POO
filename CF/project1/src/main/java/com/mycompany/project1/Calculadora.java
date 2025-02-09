@@ -17,7 +17,7 @@ public class Calculadora extends javax.swing.JFrame {
         addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
-                // Aqui você pode fazer o que quiser ao clicar no "X" da janela
+                   
                 Principal TelaPrincipal=new Principal();
                 TelaPrincipal.setVisible(true);
                 TelaPrincipal.setResizable(false);
