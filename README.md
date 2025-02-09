@@ -11,6 +11,8 @@ Bem-vindo ao repositório oficial da **NewLabTech**, onde a inovação encontra 
 ## 📂 Projetos
 Este repositório contém três projetos principais que ilustram nossa capacidade técnica e compromisso com soluções funcionais:
 
+![GitHub Repo](https://img.shields.io/badge/Repository-My_Repo-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ### 1. [Sistema de Login em Java](./SistemaLoginJava/)
 📋 Um sistema simples de autenticação com:
 - Interface gráfica moderna (NetBeans ou Eclipse)
