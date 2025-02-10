@@ -19,6 +19,8 @@ public class JogoVelha extends javax.swing.JFrame {
         initComponents();
         setVisible(true);
         setTitle("Jogo da Velha");
+        ImageIcon icon = new ImageIcon(getClass().getResource("/images/jogo-da-velha.png"));
+        setIconImage(icon.getImage());
         addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
@@ -410,7 +412,7 @@ public class JogoVelha extends javax.swing.JFrame {
             Vencedor("Jogador O");
     }
 
-    // Verificação das diagonais
+    
     if (B1.getText().equals(Jogador) && B5.getText().equals(Jogador) && B9.getText().equals(Jogador)) {
         if (B1.getText().equals("X"))
             Vencedor("Jogador X");
@@ -560,6 +562,7 @@ public class JogoVelha extends javax.swing.JFrame {
                 jogoVelha.setVisible(true);
                 jogoVelha.setResizable(false);
                 jogoVelha.setDefaultCloseOperation(jogoVelha.DO_NOTHING_ON_CLOSE);
+                jogoVelha.setLocationRelativeTo(null);
             }
         });
     }
