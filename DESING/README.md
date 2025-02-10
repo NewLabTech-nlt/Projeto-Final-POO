@@ -1,1 +1,1 @@
-**Logos e temas princípais.**
+**Logos e temas princípais usados.**
