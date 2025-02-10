@@ -406,7 +406,7 @@ public class Calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_BT9ActionPerformed
 
     private void BTvirguActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTvirguActionPerformed
-        jTFTela.setText(jTFTela.getText()+ ",");
+        jTFTela.setText(jTFTela.getText()+ ".");
     }//GEN-LAST:event_BTvirguActionPerformed
 
     private void BTlimpaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTlimpaActionPerformed
@@ -448,7 +448,12 @@ public class Calculadora extends javax.swing.JFrame {
              jTFTela.setText(String.valueOf(valor1 * valor2));
          }
           else if (operacao == "divisão"){
-             jTFTela.setText(String.valueOf(valor1 / valor2));
+             if(valor2 != 0){
+                jTFTela.setText(String.valueOf(valor1 / valor2));
+         }
+              else{
+                   jTFTela.setText("Não pode dividir por 0");
+              }
          }
          operacao = "";
     }//GEN-LAST:event_BTigualActionPerformed
