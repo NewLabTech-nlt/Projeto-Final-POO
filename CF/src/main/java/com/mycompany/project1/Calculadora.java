@@ -348,7 +348,7 @@ public class Calculadora extends javax.swing.JFrame {
 
     private void BTsomaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTsomaActionPerformed
         valor1 = Double.parseDouble(jTFTela.getText());
-        jTFTela.setText(" ");
+        jTFTela.setText("");
         operacao = "soma";
     }//GEN-LAST:event_BTsomaActionPerformed
 
@@ -410,7 +410,7 @@ public class Calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_BTvirguActionPerformed
 
     private void BTlimpaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTlimpaActionPerformed
-        jTFTela.setText(" ");
+        jTFTela.setText("");
     }//GEN-LAST:event_BTlimpaActionPerformed
 
     private void BTmenosActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTmenosActionPerformed
